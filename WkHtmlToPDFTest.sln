@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WkHtmlToPDFTest", "WkHtmlToPDFTest\WkHtmlToPDFTest.csproj", "{D04C161E-E016-44C7-B8A0-5C01A1E10645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04C161E-E016-44C7-B8A0-5C01A1E10645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04C161E-E016-44C7-B8A0-5C01A1E10645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04C161E-E016-44C7-B8A0-5C01A1E10645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04C161E-E016-44C7-B8A0-5C01A1E10645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {500E0194-AD1C-4EA1-8314-077E0163F1A6}
+	EndGlobalSection
+EndGlobal
